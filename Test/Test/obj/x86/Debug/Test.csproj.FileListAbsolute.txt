@@ -1,0 +1,7 @@
+F:\עבודת גמר\BasketballShotContest\Test\Test\bin\x86\Debug\Test.exe
+F:\עבודת גמר\BasketballShotContest\Test\Test\bin\x86\Debug\Test.pdb
+F:\עבודת גמר\BasketballShotContest\Test\Test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\עבודת גמר\BasketballShotContest\Test\Test\obj\x86\Debug\BasketballShotContest.Form1.resources
+F:\עבודת גמר\BasketballShotContest\Test\Test\obj\x86\Debug\Test.exe
+F:\עבודת גמר\BasketballShotContest\Test\Test\obj\x86\Debug\Test.pdb
+F:\עבודת גמר\BasketballShotContest\Test\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
